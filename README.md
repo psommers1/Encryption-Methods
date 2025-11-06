@@ -102,12 +102,22 @@ The script will display:
 
 The script produces detailed output showing:
 
+### Symmetric Encryption Output
+
+![Symmetric Encryption Demo](screenshots/symetric.png)
+
 **Symmetric Encryption:**
 - Generated symmetric key (Base64-encoded)
 - Original message
 - Encrypted ciphertext
 - Decrypted plaintext
 - Performance characteristics
+
+### Asymmetric Encryption Output
+
+![Asymmetric Encryption Demo - Part 1](screenshots/asymmetric1.png)
+
+![Asymmetric Encryption Demo - Part 2](screenshots/asymmetric2.png)
 
 **Asymmetric Encryption:**
 - Public key (PEM format)
